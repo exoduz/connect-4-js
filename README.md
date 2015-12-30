@@ -1,2 +1,1 @@
-# crunchyroll-connect4
-# crunchyroll-connect4
+# Connect 4 in Javascript #
